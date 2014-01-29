@@ -9,6 +9,11 @@
 		<version>1.0</version>
 	</parent>
 	
+	<scm>
+		<connection>scm:git:git://github.com/mrprez/personnage-packager-plugin.git</connection>
+		<developerConnection>scm:git:https://github.com/mrprez/personnage-packager-plugin.git</developerConnection>
+	</scm>
+	
 	<artifactId>personnage-packager-plugin</artifactId>
 	<groupId>com.mrprez.gencross</groupId>
 	<version>1.3-SNAPSHOT</version>
