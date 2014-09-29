@@ -10,12 +10,12 @@
 	<scm>
 		<connection>scm:git:git://github.com/mrprez/personnage-packager-plugin.git</connection>
 		<developerConnection>scm:git:git@github.com:mrprez/personnage-packager-plugin.git</developerConnection>
-	  <tag>personnage-packager-plugin-1.5</tag>
+	  <tag>HEAD</tag>
   </scm>
 	
 	<artifactId>personnage-packager-plugin</artifactId>
 	<groupId>com.mrprez.gencross</groupId>
-	<version>1.5</version>
+	<version>1.6-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
 	<name>personnage-packager-plugin Maven Mojo</name>
 
