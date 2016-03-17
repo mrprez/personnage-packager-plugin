@@ -23,7 +23,7 @@
 		<dependency>
 			<artifactId>gencross</artifactId>
 			<groupId>com.mrprez.gencross</groupId>
-			<version>1.17</version>
+			<version>1.18</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.maven</groupId>
